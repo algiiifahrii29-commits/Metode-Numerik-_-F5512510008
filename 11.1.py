@@ -1,3 +1,6 @@
+"""Tugas Metode Numerik_Bapak Andi Hendra"""
+"""Muhamad Algifahri_F5512510008"""
+
 def pengerjaan_soal_11_1():
     print("LEMBAR JAWABAN TUGAS METODE NUMERIK")
     print("Nama: [Nama Anda]")

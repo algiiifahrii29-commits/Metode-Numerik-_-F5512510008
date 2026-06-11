@@ -1,3 +1,7 @@
+"""Tugas Metode Numerik_Bapak Andi Hendra"""
+"""Muhamad Algifahri_F5512510008"""
+
+
 def pengerjaan_soal_11_9():
     print("="*60)
     print("LEMBAR KERJA: PENYELESAIAN GAUSS-SEIDEL (SOAL 11.9)")

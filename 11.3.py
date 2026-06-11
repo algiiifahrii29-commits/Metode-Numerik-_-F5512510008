@@ -1,3 +1,7 @@
+"""Tugas Metode Numerik_Bapak Andi Hendra"""
+"""Muhamad Algifahri_F5512510008"""
+
+
 def pengerjaan_soal_11_3():
     print("="*60)
     print("LEMBAR KERJA: PENYELESAIAN SOAL 11.3 (ALGORITMA THOMAS)")

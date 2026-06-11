@@ -1,3 +1,7 @@
+"""Tugas Metode Numerik_Bapak Andi Hendra"""
+"""Muhamad Algifahri_F5512510008"""
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 

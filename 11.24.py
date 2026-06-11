@@ -1,3 +1,7 @@
+"""Tugas Metode Numerik_Bapak Andi Hendra"""
+"""Muhamad Algifahri_F5512510008"""
+
+
 def thomas_algorithm(l, d, u, b):
     """
     Menyelesaikan sistem Ax = b untuk matriks tridiagonal

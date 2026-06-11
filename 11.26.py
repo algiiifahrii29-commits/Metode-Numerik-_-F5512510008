@@ -1,3 +1,7 @@
+"""Tugas Metode Numerik_Bapak Andi Hendra"""
+"""Muhamad Algifahri_F5512510008"""
+
+
 import numpy as np
 
 def gauss_seidel(A, b, x_init, tol=1e-6, max_iter=100):

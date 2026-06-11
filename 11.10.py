@@ -1,3 +1,7 @@
+"""Tugas Metode Numerik_Bapak Andi Hendra"""
+"""Muhamad Algifahri_F5512510008"""
+
+
 def pengerjaan_soal_11_10():
     print("="*60)
     print("LEMBAR KERJA: PENYELESAIAN JACOBI ITERATION (SOAL 11.10)")

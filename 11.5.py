@@ -1,3 +1,8 @@
+"""Tugas Metode Numerik_Bapak Andi Hendra"""
+"""Muhamad Algifahri_F5512510008"""
+
+
+
 import numpy as np
 
 def pengerjaan_soal_11_5():
@@ -36,3 +41,5 @@ def pengerjaan_soal_11_5():
 
 if __name__ == "__main__":
     pengerjaan_soal_11_5()
+
+
